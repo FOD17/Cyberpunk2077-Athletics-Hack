@@ -1,6 +1,11 @@
 # Cyberpunk2077-Athletics-Hack
 This is some dank code to automate boosting your athletics.
 
+# How to use
+Go up to a safe area from enemies, load up the script and run it. From there click back into the game. BUT MAKE SURE YOU ARE FACING A WALL!!!
+
+To exit the game to run the code hit the windows button. If this does not work for your, then you need to modify the viewing in the settings to allow the windows button to kick you out of the game.
+
 
 # Notes about code as mentioned in video
 
